@@ -27,7 +27,7 @@ const Navbar = () => {
         "fixed left-0 right-0 top-0 z-50 transition-all duration-300",
         scrolled
           ? "border-b border-border/50 bg-background/80 backdrop-blur-xl"
-          : "bg-transparent"
+          : "bg-transparent",
       )}
     >
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
@@ -35,7 +35,7 @@ const Navbar = () => {
           href="#"
           className="text-lg font-bold tracking-tight transition-colors hover:text-primary"
         >
-          Portfolio<span className="text-primary">.</span>
+          Frank&apos;s Portfolio<span className="text-primary">.</span>
         </a>
 
         {/* Desktop nav */}

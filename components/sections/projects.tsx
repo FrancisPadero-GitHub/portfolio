@@ -101,7 +101,7 @@ const Projects = () => {
             demo_link="https://brewscholar.vercel.app/"
             github_link="https://github.com/FrancisPadero-GitHub/brewscholar"
             images={["/brewscholar.png"]}
-            badge="Hobby Project (Development in Progress)"
+            badge="Hobby Project (In Progress)"
             features={[
               { icon: BookOpen, label: "Scholarships" },
               { icon: DollarSign, label: "Budget Tracker" },

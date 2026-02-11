@@ -15,7 +15,7 @@ const Hero = () => {
 
       <div className="animate-fade-in-up space-y-6">
         <div className="inline-block rounded-full border border-border/50 bg-muted/50 px-4 py-1.5 text-sm text-muted-foreground backdrop-blur-sm">
-          Full-Stack Developer
+          Web Developer
         </div>
 
         <h1 className="text-5xl font-bold tracking-tight sm:text-6xl md:text-7xl lg:text-8xl">
